@@ -1,5 +1,5 @@
 h2{
     color: blue;
-    border: thin solid;
-    border-color: red;
+    border: thin solid red;
+    /*border-color: red;*/
 }
