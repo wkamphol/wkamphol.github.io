@@ -3,4 +3,5 @@ h2{
     font-family: Arial, Helvetica, sans-serif;
     border: thin solid red;
     /*border-color: red;*/
+    float: right;
 }
